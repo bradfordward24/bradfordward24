@@ -30,7 +30,7 @@
 class info
 {
   name = "Bradford Ward";
-  age = 21;
+  age = 22;
   location = "Ottawa, Ontario";
 }
 
