@@ -14,10 +14,10 @@
 <a href="https://www.linkedin.com/in/bradford-ward-195564261/">
   <img height="50" src="https://github.com/user-attachments/assets/927c98c4-715b-43a9-8a35-b0e4182fc21f" />
 </a>
-<a href="https://www.facebook.com/MECHADOMINUS2004/">
+<a href="https://www.facebook.com/brdfrdwrd/">
   <img height="50" src="https://github.com/user-attachments/assets/d157ecec-d8cb-4dd1-86aa-a3cd9d673c7d" />
 </a>
-<a href="https://www.instagram.com/bradfordward24/">
+<a href="https://www.instagram.com/brdfrdwrd/">
   <img height="50" src="https://github.com/user-attachments/assets/1e16fdb9-a7da-4bc5-91a9-82e86b7b9552" />
 </a>
 </p>
