@@ -44,13 +44,14 @@ class education
 
 class background
 {
+  internship = "Transport Canada - Junior Analyst";
   internship = "ESDC - Junior Project Coordinator";
   internship = "ESDC - Junior Analyst";
 }
 
 class skills
 {
-  tools = ["GitHub", "VS Code", "Deno", "IntelliJ", "Webots", "QtCreator", "VirtualBox", "Power BI", "SharePoint"];
+  tools = ["GitHub", "VS Code", "Deno", "IntelliJ", "Webots", "QtCreator", "VirtualBox", "Power BI", "Databricks"];
   languages = ["Java", "C/C++", "SQL", "JavaScript", "Python", "HTML/CSS"];
 }
 
