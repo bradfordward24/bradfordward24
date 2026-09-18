@@ -5,6 +5,9 @@
 <h2> 📱Get a hold of me!</h2>
 
 <p align="center">
+<a href="https://www.brdfrdwrd.ca">
+  <img width="50" height="50" src="https://github.com/user-attachments/assets/5034ed3f-a3e7-45c9-b46d-119adf56513e" />
+</a>
 <a href="mailto:bradfordward@cmail.carleton.ca">
   <img height="50" src="https://github.com/user-attachments/assets/f6844dbb-617d-45d3-a358-24b126d91e40" />
 </a>
